@@ -1,4 +1,4 @@
-package binary_tree;
+package tree.binary_tree;
 
 import structure.BTNode;
 
